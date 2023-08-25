@@ -1,4 +1,4 @@
-entrypoint = "api.js"
+entrypoint = "server.js"
 
 hidden = [".config", "package-lock.json"]
 
